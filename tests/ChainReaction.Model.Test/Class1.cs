@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChainReaction.Model.Test
+namespace ChainReaction.Model.Tests
 {
     public class Class1
     {

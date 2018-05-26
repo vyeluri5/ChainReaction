@@ -20,11 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{A309B7B2-E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainReaction.FunctionApp", "src\ChainReaction.FunctionApp\ChainReaction.FunctionApp.csproj", "{0201F5A7-9D01-41B0-832A-B86281EFB67F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainReaction.FunctionApp.Test", "tests\ChainReaction.FunctionApp.Test\ChainReaction.FunctionApp.Test.csproj", "{1BAACE77-4238-473D-99D8-F33AD2F09442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainReaction.FunctionApp.Tests", "tests\ChainReaction.FunctionApp.Test\ChainReaction.FunctionApp.Tests.csproj", "{1BAACE77-4238-473D-99D8-F33AD2F09442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainReaction.Models", "ChainReaction.Models\ChainReaction.Models.csproj", "{820E9710-FE05-4148-A116-DC152A8F952F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainReaction.Models", "src\ChainReaction.Models\ChainReaction.Models.csproj", "{820E9710-FE05-4148-A116-DC152A8F952F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainReaction.Model.Test", "ChainReaction.Model.Test\ChainReaction.Model.Test.csproj", "{03536836-160A-4C7B-B89A-EACA16CCB0BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainReaction.Model.Tests", "tests\ChainReaction.Model.Test\ChainReaction.Model.Tests.csproj", "{03536836-160A-4C7B-B89A-EACA16CCB0BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
